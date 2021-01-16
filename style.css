@@ -1,0 +1,48 @@
+#ex p{
+	margin-top:20px;
+	text-align:center;
+	font-size:50px;
+	text-transform:capitalize;
+}
+#ex p.problem{
+	width: 500px;
+	margin-bottom:20px;
+	margin: auto;
+	font-size:18px;
+	text-transform:none;
+}
+#stopwatch{
+	margin-top:40px;
+	font-size:24px;
+	text-align:center;
+}
+p a{
+	text-transform:none;
+}
+#list{
+	text-align: center;
+}
+#list a{
+	display:block;
+	max-width:450px;
+	margin: 15px;
+	margin-left:auto;
+	margin-right:auto;
+	font-size:20px;
+}
+h1,h2{	
+	text-align:center;
+}
+#content {
+	max-width:600px; 
+	margin-left:auto;
+	margin-right:auto;
+}
+#footer{
+	text-align:center;
+	 border-top: 1px solid #f1f1f1;
+	 margin-top:50px;
+}
+#vk_like {margin: 0 auto;}
+
+    
